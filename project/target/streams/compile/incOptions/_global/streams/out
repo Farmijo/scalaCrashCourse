@@ -1,0 +1,2 @@
+[debug] Created transactional ClassFileManager with tempDir = /Users/fran/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/Test/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Removing the temporary directory used for backing up class files: /Users/fran/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/Test/project/target/scala-2.12/sbt-1.0/classes.bak
